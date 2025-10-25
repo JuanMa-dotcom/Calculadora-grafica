@@ -1,0 +1,21 @@
+# Carpetas de NetBeans que no se deben subir
+nbproject/private/
+build/
+dist/
+
+# Archivos compilados de Java
+*.class
+
+# Archivos de log
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.swp
+
+# Archivos de configuración del usuario
+*.iml
+.idea/
+.vscode/
+
